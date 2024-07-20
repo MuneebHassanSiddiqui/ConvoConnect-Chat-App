@@ -34,7 +34,7 @@ After downloading ConvoConnect, follow these steps to set up the database:
 
 ## Features
 
-- **Real-Time Messaging**: Instantaneous message delivery using WebSocket technology.
+- **Real-Time Messaging**: Instantaneous message delivery.
 - **User Authentication**: Secure login and registration system.
 - **User Profiles**: Manage user profiles and statuses.
 - **Responsive UI**: Intuitive design for seamless user experience.
@@ -59,7 +59,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-- Special thanks to [mention any contributors or resources used].
+- Special thanks to [Syed Muhammad Arslan Shah].
 
 ---
 
